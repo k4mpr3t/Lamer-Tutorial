@@ -1,1 +1,20 @@
-# lamer-tutorial
+# Intro
+Hal yang pertama yang dilakukan seseorang ketika ingin mempelajari sesuatu adalah mencari tahu dengan cara bertanya, mencari informasi di internet (googling), membaca buku referensi dan lain sebagainya. Bagaimana dengan hal nya untuk mempelajari HACKING, apakah harus dengan jalan yang sama ? jawabannya adalah memungkinkan, bisa juga tidak sama sekali, kenapa seperti demikian ? karena tindakan ini (Hacking) dan pelaku nya (Hacker wikipedia: https://id.wikipedia.org/wiki/Peretas) lebih cendrung mengarah ke tindakan ilegal. Permasalahan muncul ketika lebih cendrung mengarah ke tindakan kriminal, apa penyebabnya yaitu bisa ditarik kesimpulan sesuai dengan definisi awal yaitu tidakan peretasan (Hacking) atau pelakunya (Hacker) dibagi menjadi beberapa golongan yaitu Black Hat dan White Hat, yang berada ditengah-tengah golongan ini disebut Grey Hat, ada juga pelaku untuk system tertentu contohnya Blue Hat (Hacker OS Windows) dengan demikian tergantung dengan aksi yang mereka lakukan, golongan Black Hat melakukan aksi pembobolan dengan memanfaatkan celah (Vulnerable) suatu system yang dapat berdampak merugikan ada juga sebagai bentuk protes dan perlawanan (Hacktivist). lain hal dengan golongan White Hat kaum ini memilih cara yang legal dan beretika (Ethical Hacking) untuk dapat menerima imbalan (Bounty) dari kerentanan system (Exploit dan Bugs) yang mereka temukan. sebenarnya pelaku perusak / pembobol (segala teknik akan dijelaskan dibagian berikutnya) perangkat Keras dan Lunak (Software dan Hardware maupun Brainware) disebut Cracker dan khusus pelaku untuk perangkat keras (Hardware) tententu misalnya ponsel disebut Phreaker dan aksi yang mereka lakukan disebut Phreaking untuk segala hal yang berbau Kartu Kredit disebut Carding dan pelakunya disebut Carder.
+
+## Perangkat Komputer
+Gunakan Laptop yang bisa dibawa kemana saja (Portable) dengan spesifikasi yang mumpuni dan perangkat tambahan seperti dongle WIFI atau aplikasi perubah MAC ADDRESS sesuai kebutuhan (untuk WIndows https://technitium.com/tmac/) pembahasan tools akan dijelaskan dibagian berikutnya, untuk sistem operasi (OS) gunakan LInux (distro Linux https://distrowatch.com/) Sebelum Kali Linux offensive security mengeluarkan Backtrack dan banyak distro Linux lain nya seperti BlackBox, Parrot dan DracOs (distro buatan Indonesia). Jika terbiasa dengan windows bisa menggunakan Subsystem Linux di windows 10 atau aplikasi Virtualisasi seperti VirtualBOX maupun Bash versi windows seperti Cygwin.
+
+## Jalur Koneksi
+Koneksi Wireless sangat diperlukan ketimbang Jalur internet Lokal (LAN) gunakan wifi bisa juga menggunakan dongle modem, cara hacking WIFI dijelaskan dibagian berikutnya, agar Jejak aktifitas IP tidak bisa dilacak dengan mudah gunakan jalur pribadi (VPN) atau SSH untuk os windows bisa menggunakan Tor Browser. gunakan kecepatan internet minimal 2mbps karena semakin besar kecepatan intenet bergantung dengan kecepatan informasi yang diterima dan memudahkan untuk mempraktekan dan menguasai hal baru dengan dukungan spek laptop yang ada.
+
+## Perangkat Modem / Handphone
+Gunakan satu perangkat untuk satu nomor karena Nomor IMEI atau MAC Modem terdaftar di setiap Provider Jaringan, nyalakan Handphone seperlunya contoh : menunggu balasan kode verifikasi, selebihnya matikan dan jika menggunakan modem perhatikan posisi GPS pada saat melakukan tindakan ini.
+
+## Membuat Identitas
+Buat Identitas Hacker/Cracker/Carder/Phreaker sesuaikan Photo Profil dan identitas baru Nama, Alamat, Tanggal Lahir bisa menggunakan situs https://www.fakenamegenerator.com/, tentukan Pseudoname (nama samaran) contoh: MJL007 dan jangan menggunakan nama paggilan umum contoh: SultanHaikal. pastikan identitas ini tidak berhubungan dengan gaya hidup dan keseharian anda.
+
+## Buat Email
+setiap Forum, Blog, dan media Sosial lain nya memerlukan email untuk mendaftar sebagai pengguna maupun subscribe berita terbaru. untuk itu diperlukan yang namanya alamat email, berikut daftar layanan email :
+* https://accounts.google.com/SignUp?hl=en-GB
+* https://login.yahoo.com/account/create
+* https://www.mail.com
