@@ -11,9 +11,10 @@
 ## Social Enginering ##
 
 *    Phishing - Membuat tampilan Login Website Palsu
-*    Spamming - Mengirim Email yang berisi ajakan dengan tujuan tertentu disisipi dengan file malicious (Trojan [Keylogger - Botnet] - Virus - Worm)
-*    Scamming - Mengirim Email/SMS dan panggilan telpon tentang Hadiah Undian atau peristiwa yang mengejutkan
-*    Sniffing - Mengintai Packet Data
+*    Spamming - Mengirim Email yang berisi ajakan dengan tujuan tertentu disisipi dengan file malicious (Trojan [Keylogger-Botnet] - Virus - Worm)
+*    Scamming - Mengirim Email / Pesan SMS dan panggilan telpon tentang penipuan berupa Hadiah Undian atau peristiwa yang mengejutkan
+*    Sniffing - Mengintai transmisi Packet Data
+*    Spoofing - Menyamar dengan memalsukan Packet Data
 
 ## Exploit ##
 
